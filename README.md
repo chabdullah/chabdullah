@@ -2,13 +2,18 @@
 ## 🌱 About me
 Hi, I'm Abdullah Chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **Java, C#, Arduino and more**. 
 
-I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with Django, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and Ios (**Ionic Framework, Angular, Cordova**).
+I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with Django, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and Ios (**Ionic Framework, Typescript, Angular, Cordova**).
 
 ### 🔭 Technical skills:
 - Languages: Python, Java, C, HTML/CSS, TypeScript, C#, LaTex, Arduino
 - Developer Tools: Eclipse, Clion, Pycharm, WebStorm, VS Code, Unity, Shell, Arduino IDE
-- Technologies/Frameworks: Linux, Ionic, Angular, Cordova, Bootstrap, Django, GitHub, Jupyter Notebook, Pytorch,
-- Django, Chart.js, NetworkX, Pandas, Numpy, Google Firebas
+- Technologies/Frameworks: Linux, Ionic, Angular, Cordova, Bootstrap, Django, GitHub, Jupyter Notebook, Pytorch, Django, Chart.js, NetworkX, Pandas, Numpy, Google Firebas
+
+### 😄 Main projects
+- [Protein subcellular localization](https://github.com/chabdullah/Protein-subcellular-localization) *| NLP, ELMo, LSTM Attention*
+- [Blue Blueberries - a cookbook application](https://github.com/chabdullah/Blue-Blueberries) *| Ionic framework con Angular, Cordova, Google Firebase*
+- [Cindy’s Bad Luck - a Basic Life Support simulator VR](https://github.com/chabdullah/Cindy-s-Bad-Luck-BLS-VR) *| Unity, C#*
+- [COVID-19-analysis](https://github.com/chabdullah/COVID-19-analysis) *| Python, NetworkX, Jupyter Notebook, Pandas, Numpy*
 
 ### ⚡ Job related skills:
 - Good knowledge on the functioning of Data Mining techniques and Document Mining. Ability to critically analyze e
@@ -25,9 +30,12 @@ protection.
 - Good knowledge of machine learning techniques (Deep Learning).
 - Always eager and ready to learn new tools and acquire new knowledge (always self-taught).
 
+### 🍓 Other
 Outside the world of the tech, I read books (psychological novels in particular), I like to fraw portraits. 
 I always try to keep fit through various physical activities such as Yoga. Lately I've been getting into cooking, especially cakes.
 
+### 📫 How to reach me
+You chan contact me at abdullahchaudhry9237@gmail.com
 
 <!--
 **chabdullah/chabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
