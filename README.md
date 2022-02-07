@@ -2,7 +2,7 @@
 ## 🌱 About me
 Hi, I'm Abdullah Chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **Java, C#, Arduino and more**. 
 
-I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with Django, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and Ios (**Ionic Framework, Typescript, Angular, Cordova**).
+I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with Django, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and iOS (**Ionic Framework, Typescript, Angular, Cordova**).
 
 ### 🔭 Technical skills:
 - Languages: Python, Java, C, HTML/CSS, TypeScript, C#, LaTex, Arduino
