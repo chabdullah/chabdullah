@@ -1,4 +1,12 @@
 ### Hi there 👋
+## About me
+Hi, I'm abdullah chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **Java, C#, Arduino and more**. 
+
+I have developed a broad knowledge in different sectors: from deep learning (⚡**Pytorch, Keras, Tensorflow**⚡) to the backend with Django, from IoT with Arduino to the development of software for VR devices (⚡**Unity, C#, Oculus Quest**⚡). I also had the opportunity to develop an app for Android and Ios (⚡**Ionic Framework, Angular, Cordova**⚡).
+
+Outside the world of the tech, I read books (psychological novels in particular), I like to fraw portraits. 
+I always try to keep fit through various physical activities such as Yoga. Lately I've been getting into cooking, especially cakes.
+
 
 <!--
 **chabdullah/chabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
