@@ -1,4 +1,3 @@
-### Hi there 👋
 ## 🌱 About me
 Hi, I'm Abdullah Chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **Java, C#, Arduino and more**. 
 
