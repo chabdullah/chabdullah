@@ -30,7 +30,7 @@ protection.
 - Always eager and ready to learn new tools and acquire new knowledge (always self-taught).
 
 ### 🍓 Other
-Outside the world of the tech, I read books (psychological novels in particular), I like to fraw portraits. 
+Outside the world of the tech, I read books (psychological novels in particular), I like to draw portraits. 
 I always try to keep fit through various physical activities such as Yoga. Lately I've been getting into cooking, especially cakes.
 
 ### 📫 How to reach me
