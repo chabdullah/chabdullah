@@ -10,7 +10,7 @@ I have developed a broad knowledge in different sectors: from deep learning (**P
 
 ### 😄 Main projects
 - [Protein subcellular localization](https://github.com/chabdullah/Protein-subcellular-localization) *| NLP, ELMo, LSTM Attention*
-- [Blue Blueberries - a cookbook application](https://github.com/chabdullah/Blue-Blueberries) *| Ionic framework con Angular, Cordova, Google Firebase*
+- [Blue Blueberries - a cookbook application](https://github.com/chabdullah/Blue-Blueberries) *| Ionic framework with Angular, Cordova, Google Firebase*
 - [Cindy’s Bad Luck - a Basic Life Support simulator VR](https://github.com/chabdullah/Cindy-s-Bad-Luck-BLS-VR) *| Unity, C#*
 - [COVID-19-analysis](https://github.com/chabdullah/COVID-19-analysis) *| Python, NetworkX, Jupyter Notebook, Pandas, Numpy*
 
