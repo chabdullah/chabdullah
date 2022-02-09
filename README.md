@@ -6,7 +6,7 @@ I have developed a broad knowledge in different sectors: from deep learning (**P
 ### 🔭 Technical skills:
 - Languages: Python, Java, C, HTML/CSS, TypeScript, C#, LaTex, Arduino
 - Developer Tools: Eclipse, Clion, Pycharm, WebStorm, VS Code, Unity, Shell, Arduino IDE
-- Technologies/Frameworks: Linux, Ionic, Angular, Cordova, Bootstrap, Django, GitHub, Jupyter Notebook, Pytorch, Django, Chart.js, NetworkX, Pandas, Numpy, Google Firebas
+- Technologies/Frameworks: Linux, Ionic, Angular, Cordova, Bootstrap, Django, GitHub, Jupyter Notebook, Pytorch, Django, Chart.js, NetworkX, Pandas, Numpy, Google Firebase
 
 ### 😄 Main projects
 - [Protein subcellular localization](https://github.com/chabdullah/Protein-subcellular-localization) *| NLP, ELMo, LSTM Attention*
