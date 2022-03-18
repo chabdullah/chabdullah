@@ -29,15 +29,6 @@ protection.
 - Good knowledge of machine learning techniques (Deep Learning).
 - Always eager and ready to learn new tools and acquire new knowledge (always self-taught).
 
-<p align="left">
-  <a href="https://www.codewars.com/users/chabdullah" target="_blank"> 
-      <img 
-        src="https://www.codewars.com/users/chabdullah/badges/large" 
-        alt="kata" 
-        width="300" 
-        height="35"/> 
-  </a>
-</p>
 
 ### 🍓 Other
 Outside the world of the tech, I read books (psychological novels in particular), I like to draw portraits. 
