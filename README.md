@@ -16,20 +16,11 @@ I have developed a broad knowledge in different sectors: from deep learning (**P
 - [COVID-19-analysis](https://github.com/chabdullah/COVID-19-analysis) *| Python, NetworkX, Jupyter Notebook, Pandas, Numpy*
 
 ### ⚡ Job related skills:
-- Good knowledge on the functioning of Data Mining techniques and Document Mining. Ability to critically analyze e
-develop algorithms and methods for the efficient management of large amounts of data.
-- Good knowledge of the theoretical concepts of Human-Computer Interaction for the development of a user interface for
-Android devices.
+- Agile, Microservices, Clean Architecture
 - Good knowledge of object-oriented programming. Philosophy implemented in different languages such as Java, Python
 and C#.
-- Good knowledge of the various Python modules aimed at data analysis.
-- Good knowledge of IoT devices such as Arduino.
-- Understanding of the scientific principles underlying the efficient, reliable and secure transmission of data knowing how
-to apply the fundamental theoretical principles (mathematical, cryptographic and algorithmic) at the basis of data
-protection.
-- Good knowledge of machine learning techniques (Deep Learning).
-- Always eager and ready to learn new tools and acquire new knowledge (always self-taught).
-
+- Implementation of different Desktop, Mobile and Web projects.
+  
 
 ### 🍓 Other
 Outside the world of the tech, I read books (psychological novels in particular), I like to draw portraits. 
@@ -37,18 +28,3 @@ I always try to keep fit through various physical activities such as Yoga. Latel
 
 ### 📫 How to reach me
 You chan contact me at abdullahchaudhry9237@gmail.com
-
-<!--
-**chabdullah/chabdullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
