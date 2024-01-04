@@ -1,12 +1,12 @@
 [![](https://visitcount.itsvg.in/api?id=chabdullah&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 ## 🌱 About me
-Hi, I'm Abdullah Chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **Java, C#, Arduino and more**. 
+Hi, I'm Abdullah Chaudhry, a master's degree computer engineer from the University of Florence. I am a citizen of the world, I speak three different languages: Italian, English and Urdu. **I mostly use Python**, but I also got to try **.Net, Java, Arduino and more**. 
 
-I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with Django, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and iOS (**Ionic Framework, Typescript, Angular, Cordova**).
+I have developed a broad knowledge in different sectors: from deep learning (**Pytorch, Keras, Tensorflow**) to the backend with **Flask**, from IoT with Arduino to the development of software for VR devices (**Unity, C#, Oculus Quest**). I also had the opportunity to develop an app for Android and iOS (**Ionic Framework, Typescript, Angular, Cordova**).
 
 
- <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
 
 # 💻 Tech Stack:
@@ -20,8 +20,7 @@ I have developed a broad knowledge in different sectors: from deep learning (**P
 
 ### ⚡ Job related skills:
 - Agile, Microservices, Clean Architecture
-- Good knowledge of object-oriented programming. Philosophy implemented in different languages such as Java, Python
-and C#.
+- Good knowledge of object-oriented programming. Philosophy implemented in different languages such as .Net, Python and Java.
 - Implementation of different Desktop, Mobile and Web projects.
   
 
