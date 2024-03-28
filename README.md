@@ -9,7 +9,7 @@
 
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go) ![DotNet](https://img.shields.io/badge/Core%206-black?style=flat&logo=dotnet) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask) ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat&logo=nginx) ![MySQL](https://img.shields.io/badge/MySql-black?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb) ![Postgres](https://img.shields.io/badge/Postgres-black?style=black&logo=postgresql) 
+![Python](https://img.shields.io/badge/Python-black?style=flat&logo=python) ![Go](https://img.shields.io/badge/Go-black?style=flat&logo=go) ![DotNet](https://img.shields.io/badge/Core%206-black?style=flat&logo=dotnet) ![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask) ![Nginx](https://img.shields.io/badge/Nginx-black?style=flat&logo=nginx) ![MySQL](https://img.shields.io/badge/MySql-black?style=flat&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat&logo=mongodb) ![Postgres](https://img.shields.io/badge/Postgres-black?style=black&logo=postgresql) ![Azure](https://img.shields.io/badge/Azure-black?style=black&logo=microsoft) 
 
 ### 🖥️ Major Personal Projects
 | Title                                    | Technologies                           |
