@@ -1,6 +1,6 @@
 [![](https://visitcount.itsvg.in/api?id=chabdullah&label=Profile%20Views&color=6&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
-# 👋 Hi, I’m [Chaudhry Abdullah](https://github.com/chabdullah)
+# 👋 Hi,
 
 - 👨‍💼 **Software Engineer** at [Phoops srl](https://phoops.it/it/ "Phoops srl")
 - 🎓 **Master Degree** at the [Florence University](https://www.unifi.it/ "Università Degli Studi di Firenze")
@@ -37,5 +37,5 @@ I have developed a broad knowledge in different sectors: from deep learning (**P
 
 ### 🍓 Other
 Outside the world of the tech, I read books (psychological novels in particular), I like to draw portraits. 
-I always try to keep fit through various physical activities such as Yoga. Lately I've been getting into cooking, especially cakes.
+I always try to keep fit through various physical activities. Lately I've been getting into cooking, especially cakes.
 
